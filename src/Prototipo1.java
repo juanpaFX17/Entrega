@@ -9,7 +9,7 @@ public class Prototipo1 {
 		lista_estudiantes.PushBack(e1);
 		lista_estudiantes.PushBack(e1);
 		lista_estudiantes.PushBack(e1);
-		lista_estudiantes.PushFront(new Estudiante(69,"Pepe","Pepin",new Date(2000,00,00)));
+		lista_estudiantes.PushFront(new Estudiante(1006290337,"Juan pablo","Pepin",new Date(2000,00,00)));
 		lista_estudiantes.PopBack();
 		lista_estudiantes.PopBack();
 		lista_estudiantes.DisplayList();
